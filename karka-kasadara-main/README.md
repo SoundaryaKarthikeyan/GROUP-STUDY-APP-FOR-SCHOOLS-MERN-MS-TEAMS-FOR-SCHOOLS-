@@ -104,8 +104,3 @@ Method	Route	Description
 | GET    | `/timer`         | Pomodoro tool    |
 
 ---
-
-### 👩‍💻 Author
-Rajalakshmi R
-
-GitHub: @Rajalakshmi2110
